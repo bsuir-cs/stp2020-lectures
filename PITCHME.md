@@ -1,5 +1,5 @@
-# Современные технологии программирования
+# STP
 
----?include=slides/intro/PITCHME.md
+---?include=stp2020-lectures/slides/intro/PITCHME.md
 
----?include=slides/web/PITCHME.md
+---?include=stp2020-lectures/slides/web/PITCHME.md
