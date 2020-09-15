@@ -11,7 +11,9 @@
 
 ---
 
+@snap[north span-100]
 ### Процесс разработки ПО
+@snapend
 
 @snap[west span-55]
 1. Формирование тех. задания. Анализ требований
@@ -22,6 +24,6 @@
 6. Сопровождение и поддержка
 @snapend
 
-@snap[east span-45]
+@snap[north-east span-45]
 ![IMAGE](assets/img/software-development-process.jpg)
 @snapend
