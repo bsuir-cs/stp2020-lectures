@@ -1,15 +1,5 @@
-# Flux 
+# Современные технологии программирования
 
-An application architecture for React
+------?include=stp2020-lectures/slides/intro/PITCHME.md
 
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
-
----
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+------?include=stp2020-lectures/slides/web/PITCHME.md
