@@ -24,6 +24,6 @@
 6. Сопровождение и поддержка
 @snapend
 
-@snap[north-east span-45]
+@snap[east span-45]
 ![IMAGE](assets/img/software-development-process.jpg)
 @snapend
