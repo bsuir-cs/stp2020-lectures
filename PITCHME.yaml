@@ -34,7 +34,7 @@ theme-override: assets/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/fitu-logo-transparent-back.gif
+logo : assets/img/fitu-logo-transparent-back.png
 logo-position : top-left
 
 #
