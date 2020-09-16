@@ -46,7 +46,7 @@
 Парадигма программирования — это совокупность идей и понятий, **определяющих стиль написания компьютерных программ (подход к программированию)**. Это способ концептуализации, определяющий организацию вычислений и структурирование работы, выполняемой компьютером.
 @snapend
 
-@snap[east span-30]
+@snap[south-east span-30]
 ![IMAGE](assets/img/intro-paradigms-logo.png)
 @snapend
 
@@ -56,7 +56,7 @@
 ### Основные парадигмы процесса разработки ПО
 @snapend
 
-@snap[midpoint span-100]
+@snap[south span-100]
 ![IMAGE](assets/img/intro-paradigms-concepts.png)
 @snapend
 
@@ -66,7 +66,7 @@
 ### Основные парадигмы процесса разработки ПО
 @snapend
 
-@snap[midpoint span-100]
+@snap[south span-100]
 ![IMAGE](assets/img/intro-paradigms-language-classification.png)
 @snapend
 
