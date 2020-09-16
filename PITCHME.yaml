@@ -1,4 +1,4 @@
-# GitPitch In-60-Seconds - A Very Short Tutorial.
+# Modern programming technologies course for ITIUTS
 #
 
 #
@@ -8,7 +8,7 @@
 theme            : template
 
 # theme-background : [ "#000000" ]
-theme-background : [ "linear-gradient(180deg, white 60%, #0F2862 40.2%)" ]
+theme-background : [ "linear-gradient(100deg, white 10%, #0F2862 90%)" ]
 theme-headline   : [ "Montserrat", "#FBD95E", "none", "#FFFFFF", "100", "120", "15" ]
 theme-byline     : [ "Raleway", "#FFFFFF", "none", "#FBD95E", "100", "110", "15" ]
 theme-text       : [ "Source Sans Pro", "#FFFFFF", "none", "#A0C865", "100", "100", "15" ]
