@@ -1,5 +1,7 @@
+@snap[north span-100]
 ## СТП
 ## **Тема 1.**
+@snapend
 
 @snap[midpoint span-100]
 ### Основные понятия и определения.<br/>Методологии, методы и инструменты.
@@ -46,7 +48,7 @@
 Парадигма программирования — это совокупность идей и понятий, **определяющих стиль написания компьютерных программ (подход к программированию)**. Это способ концептуализации, определяющий организацию вычислений и структурирование работы, выполняемой компьютером.
 @snapend
 
-@snap[south-east span-30]
+@snap[east span-30]
 ![IMAGE](assets/img/intro-paradigms-logo.png)
 @snapend
 
@@ -66,7 +68,7 @@
 ### Основные парадигмы процесса разработки ПО
 @snapend
 
-@snap[south span-100]
+@snap[south span-800]
 ![IMAGE](assets/img/intro-paradigms-language-classification.png)
 @snapend
 
@@ -76,27 +78,27 @@
 ### Основные парадигмы процесса разработки ПО
 @snapend
 
-@snap[west span-50 text-06]
+@snap[west span-50 text-06 text-left]
 #### По базовой программной единице:
 - Иимперативное  =>  оператор => printf() в С
 - Декларативное =>  определение => <тег> в HTML
 @snapend
 
-@snap[east span-50 text-06]
+@snap[east span-50 text-06 text-left]
 #### По принципу модульности достижения программ (по степени связности):
 - Монолитная (Assembler)
 - Модульная (C: .h и .c файл)
 - Компонентная (Java, C#)
 @snapend
 
-@snap[south-west span-50 text-06]
+@snap[south-west span-50 text-06 text-left]
 #### По типу представления и описания объектов предметной области:
 - Структурная (С)
 - Объектно-ориентированная (С++, Java, C#, JavaScript)
 - Функицональная (Lisp, Matlab)
 @snapend
 
-@snap[south-east span-50 text-06]
+@snap[south-east span-50 text-06 text-left]
 #### По форме представления конструкций языка:
 - Текстовые (*) => все языки, где операторы имеют текстовую запись
 - Визуальные (Simulink, LAD, FBD и т.д.) => --| |--|/|--
