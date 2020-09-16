@@ -16,7 +16,7 @@
 ### Процесс разработки ПО
 @snapend
 
-@snap[west span-60]
+@snap[midpoint span-60 font-righteous]
 1. Формирование тех. задания. Анализ требований
 2. Проектирование
 3. Разработка (коддинг)
@@ -25,6 +25,6 @@
 6. Сопровождение и поддержка
 @snapend
 
-@snap[east span-40]
+@snap[midpoint span-40]
 ![IMAGE](assets/img/software-development-process.jpg)
 @snapend
