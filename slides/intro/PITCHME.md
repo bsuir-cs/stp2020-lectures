@@ -2,13 +2,13 @@
 ## СТП
 ## **Тема 1.**
 
-[drag=60 70 , drop=center]
+[drag=90 50 , drop=center]
 ### Основные понятия и определения.<br/>Методологии, методы и инструменты.
 
 
 ---
 
-[drag=80 10, drop=top]
+[drag=80 15, drop=top]
 ### Понятие “технологии”
 
 [drag=80 70, drop=center]
@@ -18,7 +18,7 @@
 
 ---
 
-[drag=80 10, drop=top]
+[drag=80 15, drop=top]
 ### Процесс разработки ПО
 
 [drag=60 70, drop=left]
@@ -35,7 +35,7 @@
 
 ---
 
-[drag=80 10, drop=top]
+[drag=80 15, drop=top]
 ### Основные парадигмы процесса разработки ПО
 
 [drag=60 70, drop=left]
@@ -48,12 +48,10 @@
 
 ---
 
-[drag=80 10, drop=top]
+[drag=80 15, drop=top]
 ### Основные парадигмы процесса разработки ПО
 
-
-[drag=80 70, drop=center]
-![IMAGE](assets/img/intro-paradigms-concepts.png)
+![drag=80 70, drop=center, stretch=true](assets/img/intro-paradigms-concepts.png)
 
 
 ---
@@ -61,38 +59,35 @@
 [drag=80 10, drop=top]
 ### Основные парадигмы процесса разработки ПО
 
-
-[drag=80 70, drop=center]
-![IMAGE](assets/img/intro-paradigms-language-classification.png)
+![drag=80 70, drop=center, stretch=true](assets/img/intro-paradigms-language-classification.png)
 
 
 ---
 
-[drag=80 10, drop=top]
+[drag=80 15, drop=top]
 ### Основные парадигмы процесса разработки ПО
 
-[drag=45 45 drop=left]
-#### По базовой программной единице:
+[drag=50 45, drop=0 15]
+#### **По базовой программной единице:**
 - Иимперативное  =>  оператор => printf() в С
 - Декларативное =>  определение => <тег> в HTML
 
 
-[drag=45 45 drop=right]
-#### По принципу модульности достижения программ (по степени связности):
+[drag=50 45, drop=-0 15]
+#### **По принципу модульности достижения программ (по степени связности):**
 - Монолитная (Assembler)
 - Модульная (C: .h и .c файл)
 - Компонентная (Java, C#)
 
 
-[drag=45 45 drop=bottomright]
-#### По типу представления и описания объектов предметной области:
+[drag=50 45, drop=bottomright]
+#### **По типу представления и описания объектов предметной области:**
 - Структурная (С)
 - Объектно-ориентированная (С++, Java, C#, JavaScript)
 - Функицональная (Lisp, Matlab)
 
 
-[drag=45 45 drop=bottomleft]
-#### По форме представления конструкций языка:
+[drag=50 45, drop=bottomleft]
+#### **По форме представления конструкций языка:**
 - Текстовые (*) => все языки, где операторы имеют текстовую запись
 - Визуальные (Simulink, LAD, FBD и т.д.) => --| |--|/|--
-
