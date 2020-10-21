@@ -1,11 +1,9 @@
-@snap[north span-100]
+[drag=32 20, drop=5 0]
 ## СТП
 ## **Тема 2.**<br/>
-@snapend
 
-@snap[midpoint span-100]
+[rag=90 50, drop=center, fit=3.4]
 ### Веб-технологии
-@snapend
 
 ---
 
