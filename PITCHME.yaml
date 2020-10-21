@@ -1,65 +1,11 @@
-# Modern programming technologies course for ITIUTS
-#
+gitpitch: 4.0
 
-#
-# Theme Template
-# Doc: https://gitpitch.com/docs/themes/default
-#
-theme            : template
+published: true
 
-# theme-background : [ "#000000" ]
-theme-background : [ "#0F2862" ]
-theme-headline   : [ "Montserrat", "#FBD95E", "none", "#FFFFFF", "100", "120", "15" ]
-theme-byline     : [ "Raleway", "#FFFFFF", "none", "#FBD95E", "100", "110", "15" ]
-theme-text       : [ "Source Sans Pro", "#FFFFFF", "none", "#A0C865", "100", "100", "15" ]
-theme-links      : [ "#F1C40F", "#5254F7" ]
-theme-code       : [ "Source Code Pro", "100", "120" ]
-theme-controls   : [ "#C0C0C0" ]
-theme-margins    : [ "0", "15px" ]
-layout           : center
-
-#
-# Highlight Setting
-# Doc: https://gitpitch.com/docs/settings/highlight
-#
-highlight : tomorrow
-
-#
-# Theme-Override Setting
-# Doc: https://gitpitch.com/docs/settings/custom-theme
-#
 theme-override: assets/css/PITCHME.css
 
-#
-# Logo Setting
-# https://gitpitch.com/docs/settings/logo
-#
-logo : assets/img/fitu-logo-transparent-back.png
-logo-position : top-left
+custom-fonts: [
+  "assets/fonts/RopaSansPro-Regular.woff2"
+]
 
-#
-# Layout Setting
-# Doc: https://gitpitch.com/docs/settings/layout
-#
-layout : center
-
-#
-# Footnote Setting
-# Doc: https://gitpitch.com/docs/settings/footnote
-# 
-# footnote : "GitPitch - The Fastest Way From Idea To Presentation"
-
-#
-# Published Setting
-# Doc: https://gitpitch.com/docs/settings/published
-
-published : true
-
-#
-# Twitter Card Settings [Pro Only]
-# Doc: https://gitpitch.com/docs/settings/twitter-card
-#
-# title : "GitPitch In 60 Seconds"
-# description : "A short tutorial introducing GitPitch Markdown Presentations for Developers."
-# thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
-
+title: "GitPitch 4.0 - Powerpoint for Geeks"
