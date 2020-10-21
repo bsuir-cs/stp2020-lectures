@@ -1,105 +1,98 @@
-@snap[north span-100]
+[drag=80 20, drop=top]
 ## СТП
 ## **Тема 1.**
-@snapend
 
-@snap[midpoint span-100]
+[drag=60 70 , drop=center]
 ### Основные понятия и определения.<br/>Методологии, методы и инструменты.
-@snapend
+
 
 ---
 
-@snap[north span-100]
+[drag=80 10, drop=top]
 ### Понятие “технологии”
-@snapend
 
-@snap[midpoint span-100]
+[drag=80 70, drop=center]
 **Технология** ― совокупность методов и средств достижения поставленной цели.
 - Методы ( метод ― от. греч. "путь"") ― отвечают на вопрос как? (метод => методология => парадигма)
 - Средства ― отвечают на вопрос с помощью чего? С помощью каких инструментов.
-@snapend
 
 ---
 
-@snap[north span-100]
+[drag=80 10, drop=top]
 ### Процесс разработки ПО
-@snapend
 
-@snap[west span-60 text-09]
+[drag=60 70, drop=left]
 1. Анализ (**Buisness analysis**)
 2. Проектирование (**Design**)
 3. Разработка (**Codding**)
 4. Тестирование (**Testing**)
 5. Развёртывание (**Deployment**)
 6. Сопровождение и поддержка (**Support**)
-@snapend
 
-@snap[east span-40]
+[drag=40 70, drop=right]
 ![IMAGE](assets/img/intro-software-development-process.jpg)
-@snapend
+
 
 ---
 
-@snap[north span-100]
+[drag=80 10, drop=top]
 ### Основные парадигмы процесса разработки ПО
-@snapend
 
-@snap[west span-70 text-08 text-left]
+[drag=60 70, drop=left]
 Парадигма программирования — это совокупность идей и понятий, **определяющих стиль написания компьютерных программ (подход к программированию)**. Это способ концептуализации, определяющий организацию вычислений и структурирование работы, выполняемой компьютером.
-@snapend
 
-@snap[east span-30]
+
+[drag=40 70, drop=right]
 ![IMAGE](assets/img/intro-paradigms-logo.png)
-@snapend
+
 
 ---
 
-@snap[north span-100]
+[drag=80 10, drop=top]
 ### Основные парадигмы процесса разработки ПО
-@snapend
 
-@snap[south span-100]
+
+[drag=80 70, drop=center]
 ![IMAGE](assets/img/intro-paradigms-concepts.png)
-@snapend
+
 
 ---
 
-@snap[north span-100]
+[drag=80 10, drop=top]
 ### Основные парадигмы процесса разработки ПО
-@snapend
 
-@snap[south span-800]
+
+[drag=80 70, drop=center]
 ![IMAGE](assets/img/intro-paradigms-language-classification.png)
-@snapend
+
 
 ---
 
-@snap[north span-100 text-08]
+[drag=80 10, drop=top]
 ### Основные парадигмы процесса разработки ПО
-@snapend
 
-@snap[west span-50 text-06 text-left]
+[drag=45 45 drop=left]
 #### По базовой программной единице:
 - Иимперативное  =>  оператор => printf() в С
 - Декларативное =>  определение => <тег> в HTML
-@snapend
 
-@snap[east span-50 text-06 text-left]
+
+[drag=45 45 drop=right]
 #### По принципу модульности достижения программ (по степени связности):
 - Монолитная (Assembler)
 - Модульная (C: .h и .c файл)
 - Компонентная (Java, C#)
-@snapend
 
-@snap[south-west span-50 text-06 text-left]
+
+[drag=45 45 drop=bottomright]
 #### По типу представления и описания объектов предметной области:
 - Структурная (С)
 - Объектно-ориентированная (С++, Java, C#, JavaScript)
 - Функицональная (Lisp, Matlab)
-@snapend
 
-@snap[south-east span-50 text-06 text-left]
+
+[drag=45 45 drop=bottomleft]
 #### По форме представления конструкций языка:
 - Текстовые (*) => все языки, где операторы имеют текстовую запись
 - Визуальные (Simulink, LAD, FBD и т.д.) => --| |--|/|--
-@snapend
+
